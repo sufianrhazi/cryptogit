@@ -1,0 +1,2 @@
+* filter=crypto diff=crypto
+.gitattributes -filter -diff
